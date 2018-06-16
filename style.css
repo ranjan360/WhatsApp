@@ -1,0 +1,125 @@
+body{
+	margin: 0px;
+}
+.app{
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+	width: 60%;
+	
+	
+}
+.header{
+	display: flex;
+	width: 100%;
+	height: 90px;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	justify-content: space-around;
+	align-content: center;
+	background-color: #1ebea5;;
+}
+.what{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+p{
+	font-family: ubuntu;
+	font-size: 15px;
+	color: white;
+}
+.boy{
+	display: flex;
+}
+.iphon{
+	display: flex;
+}
+.pc{
+	display: flex;
+}
+.wind{
+	display: flex;
+}
+.bdabba{
+	display: flex;
+	margin-left: 250px;
+	margin-right: 250px;
+	margin-top: 150px
+	
+	
+}
+.dabba{
+	justify-content: center;
+	align-content: center;
+	padding-right: 
+	
+}
+.title{
+	
+	width: 100%;
+}
+.icon{
+	
+}
+.photos{
+	display: flex;
+	justify-content: space-between;
+	height: 700px;
+}
+.video{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 49%;
+	background-color: #D0E9EA;
+	margin-top: 40px;
+	
+}
+.security{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+	width: 49%;
+	background-color: #EDF8F5;
+	margin-top: 40px;
+}
+.featur{
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-self: center;
+	border: 2px solid #1ebea5;
+	border-radius: 40px;
+	margin-top: 60px;
+}
+.uper{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	
+}
+.foot{
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	position: static;
+	background-color: #273443;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-top: 80px;
+	width: 100%;
+	height: 250px;
+	
+		
+}
+li{
+	list-style: none;
+	color: white;
+	line-height: 25px;
+}
